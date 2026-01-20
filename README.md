@@ -1,6 +1,8 @@
 # PDFSIDER-DETECTION-SCRIPT
 PDFSIDER is a sophisticated Advanced Persistent Threat (APT) backdoor recently identified in targeted intrusion campaigns. It employs DLL sideloading through legitimate vulnerable software, strong AES-256-GCM encryption for C2 communications, and multiple layers of anti-analysis checks. This article breaks down its infection chain, technical components, and provides actionable detection insights.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # PDFSIDER Detection Tool
 
 A collection of scripts and rules to detect the PDFSIDER APT malware.
@@ -16,13 +18,7 @@ PDFSIDER is an Advanced Persistent Threat (APT) backdoor that uses:
 This repository provides detection tools for security professionals.
 
 # GitHub Repository Structure
-pdfsider-detector/
-├── README.md
-├── requirements.txt
-├── scripts/
-│   ├── detect_pdfsider.ps1
-│   ├── detect_pdfsider.py
-│   └── pdfsider_rules.yar
+<img width="174" height="124" alt="image" src="https://github.com/user-attachments/assets/51b57ca8-c070-439d-bd50-3dfc6e38bbeb" />
 
 ## Tools
 
