@@ -80,7 +80,7 @@ python scripts/detect_pdfsider.py
 ### Advanced Options
 powershell
 
-Custom IOC file
+Custom IOC file refer below
 ```
 .\scripts\detect_pdfsider.ps1 -IOCFile custom_iocs.json
 ```
