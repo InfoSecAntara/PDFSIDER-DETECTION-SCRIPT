@@ -53,14 +53,14 @@ yara scripts/pdfsider_rules.yar /path/to/scan
 
 powershell
 ```
-git clone https://github.com/yourusername/pdfsider-detector.git
-cd pdfsider-detector
+git clone https://github.com/InfoSecAntara/PDFSIDER-DETECTION-SCRIPT.git
+cd PDFSIDER-DETECTION-SCRIPT
 ```
 
 ## Linux/Mac
 ```
-git clone https://github.com/yourusername/pdfsider-detector.git
-cd pdfsider-detector
+git clone https://github.com/InfoSecAntara/PDFSIDER-DETECTION-SCRIPT.git
+cd PDFSIDER-DETECTION-SCRIPT
 pip3 install -r requirements.txt
 ```
 
